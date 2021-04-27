@@ -4,10 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mrcuve0?label=Follow%20Me%21%20%40Mrcuve0&style=social)
 <!-- [![HitCount](http://hits.dwyl.com/Mrcuve0/Aritim-Dark.svg)](http://hits.dwyl.com/Mrcuve0/Aritim-Dark) -->
 
-
-## **Installation**
-
-**You can find other screenshots [here](https://www.pling.com/p/1281836/).**
+**Product page on KDE Store [here](https://www.pling.com/p/1513012/).**
 
 ![Screenshot_20210427_132455](https://user-images.githubusercontent.com/36898760/116234359-c6daf400-a75c-11eb-91a0-3e22156eb78e.png)
 
